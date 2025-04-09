@@ -1,5 +1,5 @@
 
-### Hi there 👋 am Ojijo!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=Hey!+I+am+professional+Blockchain+dev;I+am+SoftWare+Engineer...;)](https://git.io/typing-svg)
 
 # 💫 About Me:
 # Software Engineer | Problem Solver | Tech Enthusiast | Freelancer | Computer Specialist
@@ -26,6 +26,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gloryakinyi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gloryakinyi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## Stuff I worked on last week⌚
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@paulodhiambo&compact=True"/>
+</a>
+
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@akinyi_glory)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
@@ -33,3 +38,6 @@
 [![](https://visitcount.itsvg.in/api?id=gloryakinyi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# HAPPY CODING :kenya:
+
