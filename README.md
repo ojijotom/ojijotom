@@ -1,7 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=Hey!+I+am+professional+Blockchain+dev;I+am+SoftWare+Engineer...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=Hey!+I+am+ojijotom+;I+am+professional+Blockchain+dev;I+am+SoftWare+Engineer...;)](https://git.io/typing-svg)
 
-# 💫 About Me:
-Software Engineer | Problem Solver | Tech Enthusiast | Freelancer | Computer Specialist  
+# 💫 **About Me:**
+# 💼 **Software Engineer | Problem Solver | Tech Enthusiast | Freelancer | Computer Specialist**  
+
 🚀 Passionate about creating clean, efficient, and scalable software solutions  
 🌐 Specialized in web development, android development, machine learning. Constantly exploring new technologies and frameworks.  
 🛠️ Proficient with Git  
@@ -9,7 +10,7 @@ Software Engineer | Problem Solver | Tech Enthusiast | Freelancer | Computer Spe
 
 ---
 
-# 💻 Tech Stack:
+# 💻 **Tech Stack:**
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -43,17 +44,17 @@ Software Engineer | Problem Solver | Tech Enthusiast | Freelancer | Computer Spe
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 **GitHub Stats:**
 ![](https://github-readme-stats.vercel.app/api?username=ojijotom&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ojijotom&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ojijotom&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Stuff I worked on last week⌚
+## **Stuff I worked on last week⌚**
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@paulodhiambo&compact=True"/>
 </a>
 
-## 🐦 Latest Tweet
+## 🐦 **Latest Tweet**
 [![](https://gtce.itsvg.in/api?username=@ojijotom)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
@@ -61,4 +62,4 @@ Software Engineer | Problem Solver | Tech Enthusiast | Freelancer | Computer Spe
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# HAPPY CODING :kenya:
+# **HAPPY CODING :kenya:**
