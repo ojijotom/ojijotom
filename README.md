@@ -40,7 +40,7 @@
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Blockchain](https://img.shields.io/badge/Blockchain-%23000000.svg?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.blockchain.com/)
+[![Blockchain Dev](https://img.shields.io/badge/Blockchain%20Dev-Ethereum-blueviolet?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org/en/developers/)
 
 ---
 
