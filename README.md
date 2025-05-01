@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=Hey!+I+am+ojijotom+;I+am+professional+Blockchain+dev;I+am+SoftWare+Engineer...;)](https://git.io/typing-svg)
 
 # 💫 **About Me:**
-# 💼 **Software Engineer | Problem Solver | Tech Enthusiast | Freelancer | Computer Specialist**  
+# 💼 **Software Engineer | Problem Solver | Tech Enthusiast | Freelancer **  
 
 🚀 Passionate about creating clean, efficient, and scalable software solutions  
 🌐 Specialized in web development, android development, machine learning. Constantly exploring new technologies and frameworks.  
