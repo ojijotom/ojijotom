@@ -6,9 +6,39 @@
 🚀 Passionate about creating clean, efficient, and scalable software solutions  
 🌐 Specialized in web development, android development, machine learning. Constantly exploring new technologies and frameworks.  
 🛠️ Proficient with Git  
-🌱 Always eager to learn and collaborate on exciting projects. Let's build something amazing together!  
+🌱 Always eager to learn and collaborate on exciting projects. Let's build something amazing together! 
+- 📫 Reach me @ **ojijotom4@gmail.com**
+
 
 ---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://linkedin.com/in/ojijotom" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn" />
+    </a>
+ <!--     <a href="mailto:ojijotom4@gmail.com" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="40" height="40" alt="Email" style="margin-left: 10px;" /> -->
+    </a>
+    &nbsp;&nbsp;&nbsp; <a href="https://www.hackerrank.com/profile/ojijotom" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="40" height="40" alt="HackerRank" style="margin-left: 10px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp; <a href="https://www.credly.com/users/ojijotom" target="_blank">
+        <img src="https://images.credly.com/images/c4689f29-3940-42ca-823e-340ea05dd936/blob" width="40" height="40" alt="Credly" style="margin-left: 10px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp; <a href="https://leetcode.com/ojijotom" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode" style="margin-left: 10px;" />
+    </a>
+ <!--   <a href="https://discord.com/users/ojijotom" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSvQSo64weeAlpUwYBIBKt76KoHjdxDSpEGg&s" width="40" height="40" alt="Discord" style="margin-left: 10px;" /> -->
+    </a>
+    &nbsp;&nbsp;&nbsp; <a href="https://in.pinterest.com/ojijotom/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" width="40" height="40" alt="Pinterest" style="margin-left: 10px;" />
+    </a>
+    <a href="https://www.instagram.com/ojijotom/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" alt="Instagram" style="margin-left: 10px;" />
+</a>
+</p>
+
 
 # 💻 **Tech Stack:**
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
